@@ -1,1 +1,0 @@
-From k8s.gcr.io/controller:v0.48.1
